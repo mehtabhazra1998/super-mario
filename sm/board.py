@@ -5,7 +5,7 @@ import random
 #starting board
 #do not change(change at your own risk)
 
-
+#
 dimy=40
 dimx=100
 
